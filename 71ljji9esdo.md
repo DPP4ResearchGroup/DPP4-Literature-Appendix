@@ -1,1 +1,1 @@
-Markdown synte
+Markdown synt
