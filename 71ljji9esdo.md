@@ -1,1 +1,1 @@
-Markdown synt
+Markdown syntax
